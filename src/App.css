@@ -62,13 +62,3 @@ input[type='number'] {
 h2 {
   color: #F96302;
 }
-
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
